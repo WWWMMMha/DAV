@@ -1,0 +1,32 @@
+[
+  {
+    "Title": "David Copperfield",
+    "Author": "Charles Dickens",
+    "Based On": "Reality-Fiction",
+    "Year Published": 1849
+  },
+  {
+    "Title": "Adventures of Tom Sawyer",
+    "Author": "Mark Twain",
+    "Based On": "Adventure-reality-fiction",
+    "Year Published": 1876
+  },
+  {
+    "Title": "The tailsman",
+    "Author": "Stephen KingPeter Straub.",
+    "Based On": "Fantasy-Thriller",
+    "Year Published": 1984
+  },
+  {
+    "Title": "Wings of Fire",
+    "Author": "APJ. Abdul KalamArun Tiwari",
+    "Based On": "Auto-Biography",
+    "Year Published": 2006
+  },
+  {
+    "Title": "Tale of Two Cities",
+    "Author": "Charles Dickens",
+    "Based On": "Reality-fiction",
+    "Year Published": 1859
+  }
+]
